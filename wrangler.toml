@@ -1,0 +1,6 @@
+name = "movflixapi"
+main = "src/index.js"
+compatibility_date = "2025-04-13"
+
+[vars]
+CACHE_DISABLED = "false"
